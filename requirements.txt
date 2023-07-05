@@ -1,3 +1,7 @@
 dvc
 pandas
 scikit-learn
+
+# for installing local packages-
+# it will read the setup.py and it will install src as a package
+-e . 
