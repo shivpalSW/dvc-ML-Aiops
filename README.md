@@ -34,6 +34,11 @@ content of the gitignore can be found from reference repository
 conda create -n dvc-ml python=3.7 -y
 conda activate dvc-ml
 ```
+
+```bash
+mkdir -p src/utils
+```
+
 ## STEP 04: create a setup file
 ```bash
 touch setup.py
