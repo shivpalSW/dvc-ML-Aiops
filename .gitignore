@@ -1,0 +1,19 @@
+# Rope project setting
+.ropeproject
+
+#mkdocs documentation
+/site
+
+#mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+#pyre type checker
+.pyre/
+
+#vscode
+.vscode/
+
+#for pycharm
+.idea/   
