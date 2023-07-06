@@ -38,3 +38,5 @@ if __name__ == '__main__':
 
     get_data(config_path=parsed_args.config)
 
+# https://www.youtube.com/watch?v=Lkui8hE_ZCs 
+# 1:33:13
