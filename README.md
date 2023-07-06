@@ -1,5 +1,3 @@
-## Reference repo:
-https://github.com/c17hawke/dvc-ML-demo-AIOps
 
 ## wokflow -
 <img src="simple-workflow.png" alt="workflow" width="70%">
@@ -144,3 +142,5 @@ git add .
 git commit -m "stage 01 added"
 git push origin main
 ```
+#### Reference repo:
+https://github.com/c17hawke/dvc-ML-demo-AIOps
