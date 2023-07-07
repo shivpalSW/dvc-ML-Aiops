@@ -58,12 +58,12 @@ def evaluate(config_path,params_path):
 
     scores_filepath = os.path.join(scores_dir_path, scores_filename)
     print(scores_filepath)
-    
+
     scores={
         "rmse":rmse,
         "mae":mae,
         "r2 scores":r2}
-
+    print("***********Done Evaluation****************")
     save_reports(report=scores, report_path=scores_filepath)
 
 
